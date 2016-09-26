@@ -1,5 +1,9 @@
 # Gene-Freq
 
+Check it out at: http://bit.ly/2d13LBO
+
+Find more info using: https://youtu.be/_NpBNAAmaZY
+
 ## Inspiration
 
 Nasa is intending to send 4-6 people to Mars in the next 20 years. There is significant evidence to suggest that space travel exposes astronauts to radiation, which may cause mutations to develop in their genomes. For this reason, it is imperative to have a method for detecting 'dangerous' mutations while on Mars. More specifically, this method must be able to be used by a non-genomics specialist, and have easily interpretable results. 
